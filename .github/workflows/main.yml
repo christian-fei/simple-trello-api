@@ -1,4 +1,4 @@
-name: is-tx-confirmed build
+name: simple-trello-api build
 on: [push]
 jobs:
   build_deploy:
